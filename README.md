@@ -2,7 +2,7 @@
 
 ### Date created
 
-This project was created on December 22nd, 2024. 
+This project was created on December 22nd, 2024.
 
 ### Project Title
 Bikeshare data for Chicago, Washington, New York City
@@ -14,5 +14,5 @@ This project looks at bikeshare data for Chicago, Washington, New York City givi
 The files that should be used with this code include the following: Chicago.csv, Washington.csv, New_York_City.csv.
 
 ### Credits
-This code was developed with the help of the udacity staff. 
+This code was developed with the help of the Udacity staff. 
 
