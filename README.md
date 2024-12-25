@@ -2,7 +2,7 @@
 
 ### Date created
 
-This project was created on December 22nd, 2024.
+This project was created on December 22nd, 2024 by me.
 
 ### Project Title
 Bikeshare data for Chicago, Washington, New York City
